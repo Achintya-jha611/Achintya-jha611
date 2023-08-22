@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Achintya-jha611
-- 👀 I’m interested in android app development
-- 🌱 I’m currently learning android
+- 👀 I’m interested in android app development,React app development
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on android app development and web development(front end)
 - 📫 How to reach me - you can drop a mail at jhaachintya16@gmail.com
 
